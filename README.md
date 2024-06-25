@@ -86,18 +86,31 @@ The application assumes default values for font settings (Roboto, 400 weight, no
 ## Project Structure
 
 text-editor/
+</br>
 ├── public/
+</br>
 │ └── index.html
+</br>
 ├── src/
+</br>
 │ ├── components/
+</br>
 │ │ ├── Editor.tsx
+</br>
 │ │ ├── FontSelector.tsx
+</br>
 │ │ └── App.tsx
+</br>
 │ ├── types/
+</br>
 │ │ └── index.ts
+</br>
 │ ├── styles/
+</br>
 │ │ └── App.css
+</br>
 │ ├── fonts.json
+</br>
 │ └── index.tsx
 ├── .gitignore
 ├── package.json
