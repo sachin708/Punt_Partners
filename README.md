@@ -103,3 +103,5 @@ text-editor/
 ├── package.json
 ├── README.md
 └── tsconfig.json
+
+Video Presentation Link :- https://drive.google.com/file/d/1Hc8k5huyGfI_Gs4EDJcPSr8YTlzuKG5-/view?usp=sharing
